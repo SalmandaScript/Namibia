@@ -72,6 +72,16 @@ color: "teal"
 });
 });
 
+//Previous page 
+function mozambique(){
+open("https://salmandascript.github.io/Mozambique/Mozambique.html");
+}
+
+//next page 
+function niger(){
+open("https://salmandascript.github.io/Niger/Niger.html");
+}
+
 //quizz questions code 
 function checkAnswer()
   {
